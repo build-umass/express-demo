@@ -7,7 +7,7 @@ const port = 5000;
 *	Routes
 */
 app.get("/", (req, res) => {
-    res.send("Hello World!");
+    res.send("Hello Dev!");
 });
 
 
