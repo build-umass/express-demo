@@ -1,6 +1,6 @@
 # Git Tutorial
 
-In this tutorial, we will be using a simple Express app that prints `Hello World` on `http://localhost:5000`
+In this simple tutorial, we will be using a simple Express app that prints `Hello World` on `http://localhost:5000`
 
 ### Getting Started
 
